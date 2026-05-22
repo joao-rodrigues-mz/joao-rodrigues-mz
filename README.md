@@ -25,7 +25,7 @@ Atualmente em transição para **Data Science**, combinando visão de negócio c
 
 ## 🎯 Onde quero chegar
 
-Meu objetivo é atuar com **Data Science**, cobrindo o pipeline completo: desde a extração e preparação dos dados com SQL até a modelagem preditiva com Python. A experiência em finanças me dá uma vantagem para entender o impacto de negócio por trás dos números.
+Meu objetivo é atuar com **Data Science**, cobrindo o pipeline completo: desde a extração e preparação dos dados com SQL até a modelagem preditiva com Python. Acredito que a experiência em finanças me dá uma vantagem para entender o impacto de negócio por trás dos números.
 
 ## 📫 Vamos conversar!
 
