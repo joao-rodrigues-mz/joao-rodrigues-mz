@@ -4,7 +4,7 @@
 
 Analista de Controladoria com **4+ anos** de experiência em operações financeiras, fechamento contábil e análise de dados. Graduado em **Ciências Contábeis (UNIP)** com **MBA em Gestão Financeira e Controladoria** e aprovado no **Exame de Suficiência CFC**.
 
-Atualmente em transição para **Data Science**, combinando visão de negócio com habilidades técnicas. A bagagem em finanças e controladoria me dá uma leitura diferente dos dados — entendo e transmito os impactos que um número pode gerar no negócio, independente da área de onde ele vem. Experiência com entregas e comunicação em todos os níveis, incluindo diretoria e C-level.
+Atualmente em transição para **Data Science**, combinando visão de negócio com habilidades técnicas. A bagagem em finanças e controladoria me dá uma leitura diferente dos dados, entendo e transmito os impactos que um número aparentemente inofencivo pode gerar no negócio, independente da área de onde ele vem. Experiência com entregas e comunicação em todos os níveis, incluindo diretoria e C-level.
 
 ## 🛠 Tech Stack & Ferramentas
 
@@ -16,19 +16,16 @@ Atualmente em transição para **Data Science**, combinando visão de negócio c
 
 ## 📂 Projetos
 
+*"13 perguntas que a IA poderia responder, mas mesmo assim eu quis treinar" 🤖*
 | Projeto | Descrição | Ferramentas |
 |---------|-----------|-------------|
-| [Análise de Telemarketing Bancário](link-do-repositorio) | Análise exploratória com SQL investigando fatores de conversão em campanhas bancárias — 13 perguntas de negócio respondidas com dados | SQL, MySQL |
-
-*"13 perguntas que a IA poderia responder, mas mesmo assim eu quis treinar" 🤖*
+| [Análise de Telemarketing Bancário](https://github.com/Minuszerozash/analise-bank-mkt-sql) | Análise exploratória com SQL investigando fatores de conversão em campanhas bancárias — 13 perguntas de negócio respondidas com dados | SQL, MySQL |
 
 *Novos projetos em breve...*
-
 
 ## 🎯 Onde quero chegar
 
 Meu objetivo é atuar com **Data Science**, cobrindo o pipeline completo: desde a extração e preparação dos dados com SQL até a modelagem preditiva com Python. A experiência em finanças me dá uma vantagem para entender o impacto de negócio por trás dos números.
-
 
 ## 📫 Vamos conversar!
 
