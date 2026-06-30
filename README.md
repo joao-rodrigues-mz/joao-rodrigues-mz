@@ -16,7 +16,7 @@ Atualmente em transição para **Data Science**, combinando visão de negócio c
 
 ## 📂 Projetos
 
-*"13 perguntas que a IA poderia responder, mas mesmo assim eu quis treinar" 🤖*
+*"13 perguntas que a IA poderia responder, mas aprendizado nunca é demais!*
 | Projeto | Descrição | Ferramentas |
 |---------|-----------|-------------|
 | [Análise de Telemarketing Bancário](https://github.com/Minuszerozash/analise-bank-mkt-sql) | Análise exploratória com SQL investigando fatores de conversão em campanhas bancárias — 13 perguntas de negócio respondidas com dados | SQL, MySQL |
